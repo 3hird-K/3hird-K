@@ -12,19 +12,6 @@ Full-stack developer and IoT enthusiast focused on building practical, AI-driven
 
 ---
 
-### 💼 Experience
-
-**Full-Stack Developer** | *Technoblast Computer Trading* (2026 – Present)
-- Building **TechnoServe**, a service management web app using **Next.js** and **Supabase**.
-
-**Lead IoT Developer** | *Smart-Guide Project* (2026 – Present)
-- Developing an **IoT smart blind stick** with **C++** and hardware sensor integration.
-
-**Student Researcher** | *Carmen National High School* (2026 – Present)
-- Researching the impact of **Generative AI** on student critical thinking skills.
-
----
-
 ### 🎓 Education
 - **SHS Diploma, TVL - Mechatronics NCII** Sisters of Mary School Tunkop Minglanilla, 2021
 
