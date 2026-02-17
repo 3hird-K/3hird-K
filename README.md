@@ -46,6 +46,6 @@ With my diverse experience in full-stack web development and IoT integration, I 
 ## 📧 Contact Information
 
 - **Email:** Dime.neil03@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/neil-dime-8b486a3b1/)
+- **LinkedIn:** https://www.linkedin.com/in/neil-dime-8b486a3b1/
 
 ---
