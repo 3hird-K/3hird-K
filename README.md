@@ -18,7 +18,10 @@ Full-stack developer and IoT enthusiast focused on building practical, AI-driven
 <details>
 <summary><b>🎓 View Education</b></summary>
 
-- **SHS Diploma, TVL - Mechatronics NCII** Sisters of Mary School Tunkop Minglanilla, 2021
+- **Bachelor of Science in Information Technology (4th Year)**
+  University of Science and Technology of Southern Philippines (USTP)
+- **SHS Diploma, TVL - Mechatronics NCII**
+  Sisters of Mary School Tunkop Minglanilla, 2021
 </details>
 
 ---
