@@ -4,16 +4,35 @@ Full-stack developer and IoT enthusiast focused on building practical, AI-driven
 
 ---
 
-### 🛠 Skills
+<details>
+<summary><b>🛠 View My Skills</b></summary>
+
 - **Languages:** HTML5, CSS3, JS/TS, PHP, Python, Java, C++, C (Arduino)
 - **Frameworks:** Next.js, React, Laravel, Tailwind CSS, Shadcn UI, React Native
 - **Backend:** Supabase, Clerk, MySQL, PostgreSQL, Firebase
 - **Tools:** Git, VS Code, Vercel, Arduino IDE, Figma, Gen-AI Prompting
+</details>
 
 ---
 
-### 🎓 Education
+<details>
+<summary><b>🎓 View Education</b></summary>
+
 - **SHS Diploma, TVL - Mechatronics NCII** Sisters of Mary School Tunkop Minglanilla, 2021
+</details>
+
+---
+
+### 💼 Experience
+
+**Full-Stack Developer** | *Technoblast Computer Trading* (2026 – Present)
+- Building **TechnoServe**, a service management web app using **Next.js** and **Supabase**.
+
+**Lead IoT Developer** | *Smart-Guide Project* (2026 – Present)
+- Developing an **IoT smart blind stick** with **C++** and hardware sensor integration.
+
+**Student Researcher** | *Carmen National High School* (2026 – Present)
+- Researching the impact of **Generative AI** on student critical thinking skills.
 
 ---
 
